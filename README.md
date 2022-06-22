@@ -7,3 +7,7 @@
 #### IDE & Tool
 + Intelij
 + VS Code
+ 
+
+#### 개발 기간
+2022-06-18 ~ 진행중
